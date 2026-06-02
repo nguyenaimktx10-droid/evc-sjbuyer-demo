@@ -1,0 +1,6 @@
+{
+  "name": "San Jose Real Estate Application Funnel",
+  "description": "Trang thông tin Video Sales Letter (VSL) và Nộp Đơn Sàng Lọc Tư Vấn Chiến Lược Bất Động Sản San Jose bởi Evan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
