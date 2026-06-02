@@ -578,7 +578,7 @@ export default function ApplicationForm({ onSuccess }: ApplicationFormProps) {
 
           <div className="flex flex-col sm:flex-row justify-center gap-3 pt-4">
             <a
-              href="https://www.facebook.com/groups/sannhagooddealevan"
+              href="https://www.messenger.com/channel/evancoaching.net/AbZb666UKXL8ZH5R/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-xs font-bold text-slate-950 px-5 py-3 bg-amber-500 hover:bg-amber-400 rounded-xl cursor-pointer transition-colors flex items-center justify-center gap-1.5 shadow-[0_0_15px_rgba(245,158,11,0.2)]"

@@ -106,7 +106,7 @@ export default function App() {
               className="group relative w-full overflow-hidden bg-amber-500 hover:bg-amber-400 text-slate-950 font-black py-5 px-8 rounded-2xl text-base md:text-lg uppercase tracking-wider transition-all cursor-pointer inline-flex items-center justify-center gap-3 shadow-[0_15px_30px_rgba(245,158,11,0.25)] duration-300"
             >
               <span className="relative z-10 flex items-center gap-2">
-                SẴN SÀNG ĐẦU TƯ ĐỊA ỐC TRONG 90 NGÀY - APPLY NGAY !
+                TÔI SẴN SÀNG - APPLY NGAY!
                 <ArrowRight className="w-5 h-5 text-slate-950 stroke-[3] group-hover:translate-x-1 transition-transform" />
               </span>
             </motion.button>
@@ -126,7 +126,7 @@ export default function App() {
 
       {/* 7. Footer: Minimal, clean, regulatory disclosures */}
       <footer id="footer-section" className="w-full bg-slate-950 border-t border-slate-900/85 py-16 px-6 md:px-12 text-slate-300">
-        <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-start text-left">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 md:gap-20 lg:gap-28 items-start text-left">
           
           {/* CỘT TRÁI: Logo và mác tập đoàn/ủy quyền pháp lý */}
           <div className="space-y-6 flex flex-col items-center md:items-start text-center md:text-left">
@@ -174,7 +174,7 @@ export default function App() {
           </div>
 
           {/* CỘT PHẢI: Thông tin liên hệ */}
-          <div className="space-y-6">
+          <div className="space-y-6 md:pl-6 lg:pl-10 max-w-xl">
             <h3 className="text-lg font-bold font-sans text-white border-b border-slate-900 pb-2">
               THÔNG TIN LIÊN HỆ
             </h3>
@@ -226,7 +226,7 @@ export default function App() {
         </div>
 
         {/* Copyright line */}
-        <div className="max-w-4xl mx-auto mt-12 pt-6 border-t border-slate-900 text-center">
+        <div className="max-w-6xl mx-auto mt-12 pt-6 border-t border-slate-900 text-center">
           <p className="text-xs text-slate-600 font-sans">
             © {new Date().getFullYear()} San Jose Wealth Partners LLC. Toàn bộ quyền được bảo lưu.
           </p>
@@ -287,7 +287,7 @@ export default function App() {
               {/* CTA button inside Modal */}
               <div className="pt-2">
                 <a
-                  href="https://www.facebook.com/groups/sannhagooddealevan"
+                  href="https://www.messenger.com/channel/evancoaching.net/AbZb666UKXL8ZH5R/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full bg-gradient-to-r from-amber-500 to-amber-400 hover:from-amber-400 hover:to-amber-300 text-slate-950 font-black py-3.5 px-6 rounded-xl text-[11px] md:text-xs uppercase tracking-wider transition-all cursor-pointer inline-flex items-center justify-center gap-1.5 shadow-[0_4px_15px_rgba(245,158,11,0.15)]"
